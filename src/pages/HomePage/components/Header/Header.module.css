@@ -1,0 +1,52 @@
+header{
+    background-image: url('/images/Hero Content.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+    border-radius: 12px;
+}
+
+.head{
+    padding: 48px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.hour{
+    font-family: 'Pontano Sans';
+    color: #FAF2E6;
+font-size: 12px;
+font-weight: 400;
+width: 100px;
+height: 20px;
+border: solid 1px #FAF2E6;
+border-radius: 4px;
+padding: 3px 8px;
+}
+
+header p{
+    font-family: 'Instrument Serif';
+    color: #FAF2E6;
+font-size: 56px;
+width: 480px;
+text-align: center;
+}
+
+header button{
+    background-color: #FAF2E6;
+    color: #205529;
+    width: 140px;
+    height: 40px;
+    border: none;
+    border-radius: 6px;
+    font-family: 'Pontano Sans';
+    font-size: 14px;
+    font-weight: 400;
+}
+
+button:hover{
+    background-color: #dfd3c2;
+    color: #3c6b43;
+}

@@ -1,0 +1,33 @@
+.zagolovok {
+    font-size: 36px;
+    font-family: 'Instrument Serif';
+    color: #205529;
+    margin: 50px 0px 30px;
+}
+
+.products_grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    padding: 20px;
+    justify-items: center;
+}
+
+.product_card {
+    width: 305px;
+    text-align: center;
+}
+
+.product_card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.products_grid p,
+h3 {
+    font-size: 24px;
+    font-family: 'Instrument Serif';
+    color: #205529;
+}
+

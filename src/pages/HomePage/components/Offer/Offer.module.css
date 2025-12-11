@@ -1,0 +1,45 @@
+.offer {
+    background-image: url('/images/Banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 48px 0px 48px 320px;
+    margin: 50px 0px;
+}
+
+.hour {
+    font-family: 'Pontano Sans';
+    color: #205529;
+    font-size: 12px;
+    width: 90px;
+    height: 20px;
+    border: solid 1px #205529;
+    border-radius: 4px;
+    padding: 1px 10px;
+}
+
+.offer p {
+    font-family: 'Instrument Serif';
+    color: #205529;
+    font-size: 36px;
+    width: 280px;
+}
+
+.offer button {
+    background-color: #205529;
+    color: #FAF2E6;
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 6px;
+    font-family: 'Pontano Sans';
+    font-size: 14px;
+    font-weight: 400;
+}
+
+button:hover {
+    background-color: #12691d;
+    color: #f0e9e0;
+}

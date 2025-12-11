@@ -1,0 +1,60 @@
+.zagolovok{
+    font-size: 36px;
+    font-family: 'Instrument Serif';
+    color: #205529;
+    margin: 50px 0px 30px;
+}
+
+.card{
+    width: 410px;
+    height: 470px;
+    background-color: rgba(32, 85, 31, 0.08);
+    border-radius: 12px;
+}
+
+.buquet{
+    font-size: 14px;
+    font-weight: 470;
+    font-family: 'Pontano Sans';
+    color: #205529;
+}
+
+.opisanie{
+    font-size: 24px;
+    font-family: 'Instrument Serif';
+    color: #205529;
+    max-width: 280px;
+    line-height: 25px;
+}
+
+.name{
+    font-size: 12px;
+    font-weight: 470;
+    font-family: 'Pontano Sans';
+    color: #205529;
+}
+
+.stars{
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+}
+
+.otcwn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.text{
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

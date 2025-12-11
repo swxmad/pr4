@@ -1,0 +1,25 @@
+.zagolovok{
+    font-size: 36px;
+    font-family: 'Instrument Serif';
+    color: #205529;
+    margin: 50px 0px 30px;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.naz{
+    font-family: 'Instrument Serif';
+    font-size: 24px;
+    color: #205529;
+}
+
+.stroka{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

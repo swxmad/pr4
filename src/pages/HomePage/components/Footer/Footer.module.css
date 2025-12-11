@@ -1,0 +1,19 @@
+footer{
+    padding: 30px 0px;
+    background-color: #E4E3D3;
+    margin-top: 50px;
+}
+
+.text{
+display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+p{
+    font-size: 12px;
+    font-family: 'Pontano Sans';
+    color: #205529;
+}

@@ -1,0 +1,19 @@
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 305px;
+    row-gap: 10px;
+}
+
+.cena{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cena p{
+    font-size: 24px;
+    font-family: 'Instrument Serif';
+    color: #205529;
+}
